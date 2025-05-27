@@ -1,11 +1,6 @@
 {
   "features": [
-    "Safety Feature: Aim Position Head And Neak",
-    "Safety Feature: Ingame Headshote v1",
-    "Safety Feature: Ingame Headshote v2",
-    "Safety Feature: Ingame Headshote v3",
-    "Safety Feature: Sniper Scope",
-    "Safety Feature: Sniper Fast Switch",
+    "Dont Use Main Id"
     "Safety Feature: ESP All"
   ]
 }
